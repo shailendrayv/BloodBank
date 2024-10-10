@@ -1,0 +1,42 @@
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\Blood Bank Management.exe
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\Blood Bank Management.deps.json
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\Blood Bank Management.runtimeconfig.json
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\Blood Bank Management.dll
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\Blood Bank Management.pdb
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\Xander.UI.Web.dll
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\syada\source\repos\Blood Bank Management\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood Bank Management.csproj.AssemblyReference.cache
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.AddNewDonor.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.AllDonorDetails.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.Dashboard.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.DeleteDonor.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.Login.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.Properties.Resources.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.SearchBloodDonorAddress.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.SearchDonorByBlood.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.Sign_Up.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.SignUp.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.StockDecrease.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.StockDetails.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.StockIncrease.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.UpdateDonorDetails.resources
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood Bank Management.csproj.GenerateResource.cache
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood Bank Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood Bank Management.AssemblyInfoInputs.cache
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood Bank Management.AssemblyInfo.cs
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood Bank Management.csproj.CoreCompileInputs.cache
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood Ba.E982F148.Up2Date
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood Bank Management.dll
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\refint\Blood Bank Management.dll
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood Bank Management.pdb
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood Bank Management.genruntimeconfig.cache
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\ref\Blood Bank Management.dll
+C:\Users\syada\source\repos\Blood Bank Management\obj\Debug\net8.0-windows\Blood_Bank_Management.Forgot.resources
